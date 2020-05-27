@@ -1,6 +1,6 @@
 # Project Title
 
-This Web Scraper was made tofamilirize with python scrapy module.
+This Web Scraper was made to familirize with python scrapy module.
 
 ### Prerequisites
 
